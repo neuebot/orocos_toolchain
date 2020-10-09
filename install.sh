@@ -34,10 +34,10 @@ PACKAGES=(
   log4cpp
   rtt
   ocl
-  #utilrb
-  #typelib
-  #rtt_typelib
-  #orogen
+  utilrb
+  typelib
+  rtt_typelib
+  orogen
   orocos_toolchain
 )
 
